@@ -1,0 +1,5 @@
+This overwrites the file!
+This should be the second line.
+This should be the third line.
+We are using with keyword this time.
+No need to close the file.
