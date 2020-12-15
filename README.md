@@ -1,1 +1,1 @@
-# getting-started-python
+These jupyter notebook files are general python practice codes. All files contain different data structures and workflows.
